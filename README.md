@@ -22,4 +22,3 @@ Not included in repo due to file size. Download directly from Zenodo.
 ```
 pip install numpy matplotlib scikit-learn torch jupyter
 ```
-```
