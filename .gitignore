@@ -1,3 +1,5 @@
 /venv
 /QG_jets_1.npz
 /QG_jets.npz*.npz
+*.npz git rm --cached QG_jets.npz QG_jets_1.npz git add .gitignore git add evaluation_test.ipynb git commit -m add eval notebook, ignore large data files git push origin main
+*.npz
